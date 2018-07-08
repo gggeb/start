@@ -33,15 +33,12 @@ body {
     color: #69694a;
 
     border: none;
-    border-bottom: 1px solid #69694a;
 }
 
 #searchButton:hover {
     color: #ff7f50;
-    border-bottom-color: #ff7f50;
 }
 
 #searchButton:focus {
     color: #ff4500;
-    border-bottom-color: #ff4500;
 }
